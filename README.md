@@ -8,4 +8,4 @@
 
 ## 2.分析
 - 思路图
-     ![image](https://github.com/testerSunshine/12306/blob/master/uml/uml.png)
+     ![image](https://github.com/dingqing/12306/blob/master/uml/uml.png)
